@@ -7,8 +7,8 @@
 # **/*.csproj
 # **/*.sln
 
-# Ignore user-specific and IDE-related files recursively
-**/*.user
+# Ignore employee-specific and IDE-related files recursively
+**/*.employee
 **/*.suo
 **/*.vspx
 **/*.vsmdi
