@@ -2,6 +2,9 @@
 **/[Bb]in/
 **/[Oo]bj/
 
+# easy homework
+
+
 # Don't ignore solution or project files
 # (Remove these lines to keep them in Git)
 # **/*.csproj
